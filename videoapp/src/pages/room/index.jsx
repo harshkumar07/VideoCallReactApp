@@ -1,4 +1,4 @@
-import React ,{useState} from "react";
+import React from "react";
 import {ZegoUIKitPrebuilt} from "@zegocloud/zego-uikit-prebuilt";
 import { useParams } from "react-router-dom";
 
